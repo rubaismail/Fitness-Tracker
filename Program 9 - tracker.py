@@ -1,6 +1,4 @@
 # Ruba Ismail
-# Program 9 - Tracker
-# COP 2500C
 # Apr 11 2024
 
 
